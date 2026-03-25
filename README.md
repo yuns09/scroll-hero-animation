@@ -41,12 +41,12 @@ The application follows a **mobile-first approach**, ensuring seamless performan
 
 ### 🖥️ Desktop View
 <p align="center">
-  <img src="./screenshots/hero.png" width="80%">
+  <img src="./screenshots/hero-desktop.png" width="80%">
 </p>
 
 ### 📱 Mobile View
 <p align="center">
-  <img src="./screenshots/mobile.png" width="30%">
+  <img src="./screenshots/mobile-view.png" width="30%">
 </p>
 
 ### ⚙️ Animation / Feature
@@ -56,7 +56,7 @@ The application follows a **mobile-first approach**, ensuring seamless performan
 
 ### 📜 Full Page View
 <p align="center">
-  <img src="./screenshots/fullpage.png" width="80%">
+  <img src="./screenshots/full-page.png" width="80%">
 </p>
 
 ---
