@@ -1,16 +1,132 @@
-# React + Vite
+# 🚀 Scroll Hero Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually engaging web application showcasing smooth scroll-based animations and interactive UI elements. Built with a focus on performance, responsiveness, and clean UI/UX design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+👉 https://scroll-hero-animation-two.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About the Project
 
-## Expanding the ESLint configuration
+This project demonstrates advanced scroll-based animation techniques combined with a clean and minimal interface. The main objective was to create a dynamic user experience where elements respond smoothly to user scrolling behavior.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application follows a **mobile-first approach**, ensuring seamless performance across different screen sizes and devices.
+
+---
+
+## ✨ Features
+
+- 🎬 Smooth scroll-based animations  
+- 📱 Fully responsive (Mobile-first design)  
+- ⚡ Fast performance using Vite  
+- 🎨 Clean and modern UI/UX  
+- 🧩 Component-based architecture (React)  
+- 🔄 Interactive and engaging experience  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Build Tool:** Vite  
+- **Styling:** CSS / Styled Components  
+- **Deployment:** Vercel  
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+<p align="center">
+  <img src="./screenshots/hero.png" width="80%">
+</p>
+
+### 📱 Mobile View
+<p align="center">
+  <img src="./screenshots/mobile.png" width="30%">
+</p>
+
+### ⚙️ Animation / Feature
+<p align="center">
+  <img src="./screenshots/feature.png" width="80%">
+</p>
+
+### 📜 Full Page View
+<p align="center">
+  <img src="./screenshots/fullpage.png" width="80%">
+</p>
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/yuns09/scroll-hero-animation.git
+
+# Navigate into the project
+cd scroll-hero-animation
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```
+scroll-hero-animation/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── screenshots/
+└── package.json
+```
+
+---
+
+## 🎯 Key Highlights
+
+- Focused on real-world UI/UX improvements  
+- Clean, readable, and maintainable code  
+- Responsive design across devices  
+- Smooth and optimized animations  
+
+---
+
+## 🔮 Future Improvements
+
+- Add more advanced animations  
+- Improve accessibility (ARIA support)  
+- Add dark mode  
+- Integrate backend for dynamic content  
+
+---
+
+## 👨‍💻 Author
+
+**Mo Yunus** 
+🎓 B.Tech (ECE) – 3rd Year  
+💻 Full Stack Web Developer  
+
+🔗 GitHub: https://github.com/yuns09  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
